@@ -137,5 +137,3 @@ target
 *.iml
 .idea
 db
-src/main/resources/
-src/test/
